@@ -1,0 +1,18 @@
+USERID, ADDRESS, AVERAGE AGE OF FRIENDS
+17209,2660 Gore Street,Houston,Texas,23
+17230,736 Aspen Court,Boston,Massachusetts,23
+25417,1105 Joanne Lane,Worcester,Massachusetts,23
+7093,1025 Five Points,Baltimore,Maryland,23
+19393,461 Pringle Drive,Northbrook,Illinois,23
+17263,3928 Pratt Avenue,Olympia,Washington,23
+48991,221 Amethyst Drive,Lansing,Michigan,23
+25006,461 Robinson Court,Saginaw,Michigan,23
+28863,3146 Indiana Avenue,Wahiawa,Hawaii,23
+94,2793 Hall Street,Las Vegas,Nevada,23
+19425,574 Formula Lane,Mc Kinney,Texas,23
+23,4999 Devils Hill Road,Hazlehurst,Mississippi,23
+1474,4692 Vesta Drive,Chicago,Illinois,23
+16610,1971 Washington Avenue,Phoenix,Arizona,23
+
+45474,1905 Martha Ellen Drive,Pahrump,Nevada,22
+
